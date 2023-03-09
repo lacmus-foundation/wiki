@@ -4,7 +4,7 @@
 
 ## app
 
-* [Quick Start](app/quick-start.md)
+* [💥 Quick Start](app/quick-start.md)
 
 ## FTP <a href="#app" id="app"></a>
 
