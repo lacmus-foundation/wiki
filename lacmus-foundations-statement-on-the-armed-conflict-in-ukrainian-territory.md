@@ -8,5 +8,5 @@ The members of the Lacmus Foundation consider violence to be unacceptable in the
 
 We note that the use of our software is licensed exclusively for peaceful goals, namely the search for missing persons.
 
-__\
+\
 _**P.S.** Русский военный корабль - иди на х\*й! (F\*ck Russian warship!)_

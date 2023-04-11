@@ -8,8 +8,6 @@ The [Lacmus](https://github.com/lacmus-foundation/lacmus-app) cross-platform app
 
 <figure><img src="../.gitbook/assets/lacmus-app-overview (1).png" alt=""><figcaption><p>main view</p></figcaption></figure>
 
-
-
 ### Step 1: Install 💻
 
 {% hint style="info" %}
@@ -54,4 +52,32 @@ In the latest versions of the OSX operating system, it is probable that upon lau
 
 More detailed instructions are given in the section:
 
-\
+### Step 2: Configure 🔧
+
+1. Open the application settings (go to `File -> Settings`);
+2. Set up the general settings (General tab):
+   1. Select the language;
+   2. Select UI Theme;
+3. Configure ML model:
+   1. Choose the `Available models` tab;
+   2.  Choose a suitable model from the list (choose the type according to your hardware). E.g. `Lacmus YOLO v5 Cpu`;
+
+       <figure><img src="../.gitbook/assets/lacmus-model.png" alt=""><figcaption></figcaption></figure>
+   3. Click the `Install` button and wait for the download to complete;
+   4. Go to the `Installed models` tab;
+   5. Select the desired model from the list and press `Activate`;
+   6. Don't forget to click the `Apply` button to _apply the settings._
+
+### Step 3: Run detection! 🎯
+
+1. Run the recognition wizard by selecting the menu `File -> Wizard`;
+2. The welcome window will open in front of you. Click `Next` to continue;
+3. Select a folder with photos to recognize by clicking the `Select Photo` button. After selecting a folder, click `Next`;
+4. Choose a folder to save. Upon completion, the program will save the results in this folder. After selecting a folder, click `Next`;
+5. Make sure that the ML model is ready and click `Start Processing`;
+6. The program will process the data using the AI and will save the results. Wait until the end of the process.
+7. Click `Finish` button to view the results in the main window or `Repeat` to process other data.
+
+
+
+1.
