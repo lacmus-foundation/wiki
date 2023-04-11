@@ -78,6 +78,3 @@ More detailed instructions are given in the section:
 6. The program will process the data using the AI and will save the results. Wait until the end of the process.
 7. Click `Finish` button to view the results in the main window or `Repeat` to process other data.
 
-
-
-1.
