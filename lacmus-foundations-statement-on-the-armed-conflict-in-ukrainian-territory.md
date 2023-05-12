@@ -8,5 +8,5 @@ The members of the Lacmus Foundation consider violence to be unacceptable in the
 
 We note that the use of our software is licensed exclusively for peaceful goals, namely the search for missing persons.\
 \
-22.09.2014
+22.09.2019
 
