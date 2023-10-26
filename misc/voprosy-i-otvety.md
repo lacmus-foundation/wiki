@@ -4,10 +4,6 @@
 
 Скачать приложение можно по [ссылке](https://github.com/lacmus-foundation/lacmus-app/releases).
 
-## Как удалить Docker?
-
-Напишу позже:-)
-
 ## Какую ML модель выбрать?
 
 Об этом подробно написано [тут](../app/system-requirements/model-zoo.md).
