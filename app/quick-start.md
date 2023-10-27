@@ -24,6 +24,10 @@ Versions 0.6.x - 0.9.x are compatible with versions 1.x.x but may have some mino
 
 Initially, it is recommended that you review the system requirements:
 
+{% content-ref url="system-requirements.md" %}
+[system-requirements.md](system-requirements.md)
+{% endcontent-ref %}
+
 Follow these steps depending on your operating system:
 
 #### Linux (Debian / Ubuntu)
