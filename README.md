@@ -29,3 +29,9 @@ The following solutions are currently available to users:
 If you can't find what you need here or have questions, visit our friendly community ([RU](https://t.me/found\_lacmus) or [EN](https://t.me/lacmus\_foundation\_en)) where you'll find many people happy to help you!
 
 See also:
+
+
+
+{% content-ref url="app-2/quick-start.md" %}
+[quick-start.md](app-2/quick-start.md)
+{% endcontent-ref %}
