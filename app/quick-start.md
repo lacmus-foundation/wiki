@@ -11,18 +11,26 @@ The [Lacmus](https://github.com/lacmus-foundation/lacmus-app) cross-platform app
 ### Step 1: Install 💻
 
 {% hint style="info" %}
-The present article furnishes fundamental guidelines for commencing the utilization of Lacmus. The focus of this discourse is solely limited to the rudimentary facets of program usage and installation. A thorough understanding of the software requires an in-depth review of the corresponding sections outlined in the relevant sections of the documentation.
+This article furnishes fundamental guidelines for commencing the utilization of Lacmus. The focus of this discourse is solely limited to the rudimentary facets of program usage and installation. A thorough understanding of the software requires an in-depth review of the corresponding sections outlined in the relevant sections of the documentation.
 {% endhint %}
 
 {% hint style="warning" %}
-This instruction is valid for LacmusApp versions **0.6.x** and newer. Versions 0.5.x and earlier are no longer supported.
+This instruction is valid for LacmusApp versions **1.x.x** and newer.
+
+Versions 0.5.x and earlier are _no longer supported_.
+
+Versions 0.6.x - 0.9.x are compatible with versions 1.x.x but may have some minor differences. Please make sure you are using the latest version of the program.
 {% endhint %}
 
 Initially, it is recommended that you review the system requirements:
 
 Follow these steps depending on your operating system:
 
-**Linux (Debian / Ubuntu)**
+#### Linux (Debian / Ubuntu)
+
+{% hint style="success" %}
+Installation for other distributions is described in the corresponding section.
+{% endhint %}
 
 1. Download the [latest version of Lacmus App](https://github.com/lacmus-foundation/lacmus-app/releases).
 2. Open `Assets` section, select the deb package `LacmusApp.Avalonia.X.X.X.linux-x64.deb` , and download it (_X.X.X is the program version_).
@@ -68,6 +76,8 @@ More detailed instructions are given in the section:
    5. Select the desired model from the list and press `Activate`;
    6. Don't forget to click the `Apply` button to _apply the settings._
 
+See also:
+
 ### Step 3: Run detection! 🎯
 
 1. Run the recognition wizard by selecting the menu `File -> Wizard`;
@@ -77,4 +87,6 @@ More detailed instructions are given in the section:
 5. Make sure that the ML model is ready and click `Start Processing`;
 6. The program will process the data using the AI and will save the results. Wait until the end of the process.
 7. Click `Finish` button to view the results in the main window or `Repeat` to process other data.
+
+See also:
 
