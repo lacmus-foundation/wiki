@@ -30,8 +30,6 @@ If you can't find what you need here or have questions, visit our friendly commu
 
 See also:
 
-
-
-{% content-ref url="app-2/quick-start.md" %}
-[quick-start.md](app-2/quick-start.md)
+{% content-ref url="app/quick-start.md" %}
+[quick-start.md](app/quick-start.md)
 {% endcontent-ref %}
