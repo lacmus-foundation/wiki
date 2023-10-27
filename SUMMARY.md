@@ -5,6 +5,7 @@
 ## app
 
 * [💥 Quick Start](app/quick-start.md)
+* [💻 System Requirements](app/system-requirements.md)
 
 ## FTP <a href="#app" id="app"></a>
 
