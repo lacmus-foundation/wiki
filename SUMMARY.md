@@ -24,8 +24,8 @@
 
 * [🔎 О Нас](misc/about.md)
 * [❓ Вопросы и Ответы](misc/voprosy-i-otvety.md)
-* [👨👩👧👦 Сообщество](misc/soobshestvo.md)
-* [❤ Помощь Проекту](misc/pomosh-proektu.md)
+* [👨‍👩‍👧‍👦 Сообщество](misc/soobshestvo.md)
+* [❤️ Помощь Проекту](misc/pomosh-proektu.md)
 * [🎸 История изменений](misc/change-log/README.md)
   * [👾 Приложение](misc/change-log/app.md)
   * [👾 ML Модель](misc/change-log/ml-nodel.md)
